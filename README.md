@@ -11,3 +11,10 @@ Project goals:
 
 
 
+Project Updates:
+----------------
+
+* 2012-12-12 7:16pm - confirmed that vagrant host is working properly upon sudo vagrant up.  Launch browser and point to http://33.33.33.14/ and the page display CodeIgniter project init page!  :)
+
+
+
